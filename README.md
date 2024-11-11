@@ -15,6 +15,8 @@
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
+![my-xo-app](https://github.com/user-attachments/assets/f3ebdd32-cbbb-4459-99ab-0f7ac022b1b6)
+
 ## About the project
 
 ค่าที่จำเป็นสำหรับไฟล์ environment ขออนุญาตแนบแยกเป็นข้อความผ่านทางช่องทางอีเมล์
