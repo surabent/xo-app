@@ -20,11 +20,15 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 ## About the project
 
 ในระยะแรก เป็นโปรเจคที่สร้างขึ้นตามโจทย์ทดสอบความสามารถเพื่อเข้าทำงานภายในองค์กร
+
 ในระยะที่สอง ได้แก้ไขบางส่วนของโปรเจคให้แตกต่างกับโจทย์ที่ได้รับมาในตอนแรกเพื่อลดความซับซ้อนลงและถือเป็นการเริ่มต้นการฝึกฝนพัฒนาเว็บแอปพลิเคชั่น ( อีกครั้ง )
+
 เป้าหมายของโปรเจคปัจจุบันคือทำให้สามารถ deploy production ได้ เพื่อเพิ่มความรู้ความสามารถในการพัฒนาเว็บแอปพลิเคชั่นของผู้พัฒนาเอง และ เป้าหมายเพื่อใช้เป็นผลงานเพื่อประกอบการสมัครเข้าทำงานต่อไป
 
 ---
 
 In the first phase, I developed this project for a job interview (coding skill test).
+
 In the current phase (2nd phase), I am starting to update this project to be less complex and mark it as a new beginning in practicing web applications (again).
+
 The goal of the current phase is to gain knowledge and experience in deploying the project to production (from the ground up) and use it as a showcase for a future job application.
